@@ -1,2 +1,2 @@
 # odin-recipes
-Conventional Commits practice 
+A simple project to practice writing Conventional Commits
