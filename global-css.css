@@ -4,3 +4,18 @@
 
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+article, section {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+
+h1 {
+    font-size: 64px;
+    margin: 32px;
+}
+
+a, p {
+    font-size: 24px;
+}

@@ -1,20 +1,5 @@
 main {
-    background: red;
-}
-
-article {
-    display: flex;
-    flex-direction: column;
-    place-items: center;
-}
-
-h1 {
-    font-size: 64px;
-    margin-top: 32px;
-}
-
-a {
-    font-size: 24px;
+    background: crimson;
 }
 
 .recipe-list {
