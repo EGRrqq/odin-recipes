@@ -9,13 +9,19 @@ article, section {
     display: flex;
     flex-direction: column;
     place-items: center;
+    height: 100%;
 }
 
 h1 {
     font-size: 64px;
-    margin: 32px;
 }
 
-a, p {
+h2, h3 {
+    margin: 16px;
+    font-size: 32px;
+    background-color: gold;
+}
+
+a, p, li {
     font-size: 24px;
 }

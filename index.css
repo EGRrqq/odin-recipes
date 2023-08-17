@@ -2,12 +2,16 @@ main {
     background: crimson;
 }
 
+h1 {
+    margin-top: 32px;
+}
+
 .recipe-list {
     display: flex;
     flex-direction: column;
     place-items: center;
     justify-content: center;
-    height: 100dvh;
+    height: 100%;
 }
 
 .recipe-list-item:nth-child(odd) a {

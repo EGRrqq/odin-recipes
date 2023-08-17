@@ -2,25 +2,23 @@ main {
     background: greenyellow;
 }
 
+h1 {
+    margin: 32px;
+}
+
 section {
     margin: 16px;
-}
-
-h2, h3 {
-    margin: 16px;
-    font-size: 32px;
-    background-color: gold;
-}
-
-p, li {
-    font-size: 24px;
 }
 
 li:nth-child(odd) {
     color: rgb(13, 10, 214)
 }
 
-ol, p {
+h2, h3 {
+    background-color: gold;
+}
+
+ul, ol, p {
     width: 80%;
 }
 
